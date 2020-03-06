@@ -1,0 +1,10 @@
+D:\hbase\src\main\java\com\zhileiedu\mr1\ReadFruitMapper.java
+D:\hbase\src\main\java\com\zhileiedu\mr1\tool\Driver.java
+D:\hbase\src\main\java\com\zhileiedu\mr2\WriteFruitMRFromTxtReducer.java
+D:\hbase\src\main\java\com\zhileiedu\mr1\tool\Fruit2FruitMRRunner.java
+D:\hbase\src\main\java\com\zhileiedu\hbaseClient\HbaseClient2.java
+D:\hbase\src\main\java\com\zhileiedu\mr1\MDriver.java
+D:\hbase\src\main\java\com\zhileiedu\hbaseClient\HbaseClient.java
+D:\hbase\src\main\java\com\zhileiedu\mr2\Driver.java
+D:\hbase\src\main\java\com\zhileiedu\mr1\WriteFruitMRReducer.java
+D:\hbase\src\main\java\com\zhileiedu\mr2\ReadFruitFromHDFSMapper.java
