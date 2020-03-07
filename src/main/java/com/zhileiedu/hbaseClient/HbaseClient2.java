@@ -92,6 +92,7 @@ public class HbaseClient2 {
 	@Test
 	public void createregion() throws IOException { // 手动创建预分区
 		Admin admin = connection.getAdmin();
+		System.out.println("上传至github");
 		HTableDescriptor hTableDescriptor = new HTableDescriptor(atguigu);
 		HColumnDescriptor hColumnDescriptor = new HColumnDescriptor(Bytes.toBytes("info"));
 		hTableDescriptor.addFamily(hColumnDescriptor);
