@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fead0805-22d6-4c36-86e6-0d7b3bb3cdf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hbase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/hbaseClient/HbaseClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/hbaseClient/HbaseClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr1/MDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr1/ReadFruitMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr1/WriteFruitMRReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr1/tool/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr1/tool/Fruit2FruitMRRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr2/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr2/ReadFruitFromHDFSMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/mr2/WriteFruitMRFromTxtReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ccc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/hbase.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/hbaseClient/HbaseClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/hbaseClient/HbaseClient2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/mr1/MDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/mr1/ReadFruitMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/mr1/WriteFruitMRReducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/mr1/tool/Fruit2FruitMRRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cv.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/hbase-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/hbaseClient/HbaseClient2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/hbaseClient/HbaseClient2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/hbaseClient/HbaseClient2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/hbaseClient/HbaseClient2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,13 +67,13 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearnByMyself/HA架构软件/大数据/hbase/源码笔记资料/2.资料/hive编译/apache-hive-1.2.1-src/apache-hive-1.2.1-src/hbase-handler" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="tv.twelvetone.intellij.plugins.intellivue.preferences.IntellivueConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -122,7 +84,7 @@
       <recent name="D:\hbase\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HbaseClient2.selectLines">
+  <component name="RunManager" selected="JUnit.HbaseClient2.createregion">
     <configuration name="HbaseClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhileiedu.hbaseClient.HbaseClient" />
       <module name="hbase" />
@@ -149,15 +111,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.test.Test" />
+    <configuration name="HbaseClient2.createregion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hbase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhileiedu.test.*" />
+          <option name="PATTERN" value="com.zhileiedu.hbaseClient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.zhileiedu.hbaseClient" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.hbaseClient.HbaseClient2" />
+      <option name="METHOD_NAME" value="createregion" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HbaseClient2.createregion" />
         <item itemvalue="JUnit.HbaseClient2.selectLines" />
         <item itemvalue="JUnit.HbaseClient2.deleteDataByRowKey" />
         <item itemvalue="Application.HbaseClient" />
         <item itemvalue="Application.HbaseClient2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -229,62 +194,86 @@
       <workItem from="1583391888880" duration="11160000" />
       <workItem from="1583418248763" duration="3858000" />
       <workItem from="1583458809614" duration="22619000" />
-      <workItem from="1583493251444" duration="4143000" />
+      <workItem from="1583493251444" duration="9266000" />
+      <workItem from="1583563169247" duration="14000" />
+      <workItem from="1583572766124" duration="2437000" />
     </task>
+    <task id="LOCAL-00001" summary="通过mapreduce 实现hbase表数据传递">
+      <created>1583504127850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583504127850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="通过mapreduce 实现hbase表数据传递" />
+    <option name="LAST_COMMIT_MESSAGE" value="通过mapreduce 实现hbase表数据传递" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="2" key="#Deployment" timestamp="1583467099921">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="350" y="3" key="#Deployment" timestamp="1583572806385">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="2" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1583467099921" />
-    <state x="371" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583392398962">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="350" y="3" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1583572806385" />
+    <state x="557" y="228" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583573364862">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="371" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1583392398962" />
+    <state x="557" y="228" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583573364862" />
     <state x="669" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1583503185153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583483620836" />
     <state x="669" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583503185153" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1583502055710">
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1583504120747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583504120747" />
+    <state x="613" y="206" key="FileChooserDialogImpl" timestamp="1583574501629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="506" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583463773043" />
-    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583502055710" />
-    <state width="1877" height="225" key="GridCell.Tab.0.bottom" timestamp="1583503835286">
+    <state x="613" y="206" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583574501629" />
+    <state width="1877" height="154" key="GridCell.Tab.0.bottom" timestamp="1583573148855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="145" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583490523455" />
-    <state width="1877" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583503835286" />
-    <state width="1877" height="225" key="GridCell.Tab.0.center" timestamp="1583503835286">
+    <state width="1877" height="154" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583573148855" />
+    <state width="1877" height="154" key="GridCell.Tab.0.center" timestamp="1583573148855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="145" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583490523455" />
-    <state width="1877" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583503835286" />
-    <state width="1877" height="225" key="GridCell.Tab.0.left" timestamp="1583503835286">
+    <state width="1877" height="154" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583573148855" />
+    <state width="1877" height="154" key="GridCell.Tab.0.left" timestamp="1583573148855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="145" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583490523453" />
-    <state width="1877" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583503835286" />
-    <state width="1877" height="225" key="GridCell.Tab.0.right" timestamp="1583503835286">
+    <state width="1877" height="154" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583573148855" />
+    <state width="1877" height="154" key="GridCell.Tab.0.right" timestamp="1583573148855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="145" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583490523455" />
-    <state width="1877" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583503835286" />
-    <state x="463" y="164" key="SettingsEditor" timestamp="1583493307149">
+    <state width="1877" height="154" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583573148855" />
+    <state x="463" y="164" key="SettingsEditor" timestamp="1583507907860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="288" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583482737555" />
-    <state x="463" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583493307149" />
-    <state x="56" y="88" key="new project wizard" timestamp="1583467463048">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="463" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583507907860" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1583504136694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583504136694" />
+    <state x="181" y="129" width="1251" height="768" key="new project wizard" timestamp="1583559357974">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="56" y="88" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583467463048" />
-    <state x="334" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583412147054" />
+    <state x="181" y="129" width="1251" height="768" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583559357974" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583417514033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

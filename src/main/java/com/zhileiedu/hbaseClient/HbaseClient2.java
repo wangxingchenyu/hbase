@@ -1,10 +1,7 @@
 package com.zhileiedu.hbaseClient;
 
 import org.apache.hadoop.conf.Configuration;
-import org.apache.hadoop.hbase.Cell;
-import org.apache.hadoop.hbase.CellUtil;
-import org.apache.hadoop.hbase.HBaseConfiguration;
-import org.apache.hadoop.hbase.TableName;
+import org.apache.hadoop.hbase.*;
 import org.apache.hadoop.hbase.client.*;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.junit.Before;
@@ -27,9 +24,8 @@ public class HbaseClient2 {
 	public void connect() throws IOException {
 		configuration = HBaseConfiguration.create();
 		connection = ConnectionFactory.createConnection(configuration);
-		atguigu = TableName.valueOf("atguigu:student");
+		atguigu = TableName.valueOf("atguigu:student01");
 	}
-
 
 	@Test
 	public void selectLines() throws IOException { // 查询多行
@@ -54,7 +50,6 @@ public class HbaseClient2 {
 		}
 
 	}
-
 
 	@Test
 	public void deleteLines() throws IOException { // 删除多行的数据
@@ -82,7 +77,6 @@ public class HbaseClient2 {
 
 	}
 
-
 	@Test
 	public void deleteTable() throws IOException {
 		// 删除表
@@ -93,7 +87,20 @@ public class HbaseClient2 {
 			// 删除表
 			admin.deleteTable(atguigu);
 		}
+	}
 
+	@Test
+	public void createregion() throws IOException { // 手动创建预分区
+		Admin admin = connection.getAdmin();
+		HTableDescriptor hTableDescriptor = new HTableDescriptor(atguigu);
+		HColumnDescriptor hColumnDescriptor = new HColumnDescriptor(Bytes.toBytes("info"));
+		hTableDescriptor.addFamily(hColumnDescriptor);
+		byte[][] bs = new byte[3][];
+		bs[0] = Bytes.toBytes("10001");
+		bs[1] = Bytes.toBytes("10002");
+		bs[2] = Bytes.toBytes("10003");
+
+		admin.createTable(hTableDescriptor, bs);
 	}
 
 
